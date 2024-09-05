@@ -1,4 +1,4 @@
-Real-time Finger Counting using OpenCV and MediaPipe
+# Real-time-Finger-Detection
 This project implements a real-time finger detection and counting system using OpenCV and MediaPipe's hand tracking framework. The system captures video input from a webcam, detects the hand, and counts the number of extended fingers, even in complex backgrounds or when the face is visible in the frame.
 
 Features
